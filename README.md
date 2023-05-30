@@ -48,7 +48,9 @@ The Currency Converter Application uses Cypress for end-to-end testing. Follow t
 
 1. Make sure the application is running.
 2. In a separate terminal, run the following command to open the Cypress Test Runner:
+```
 npx cypress open
+```
 
 3. In the Cypress Test Runner, click on the `currencyConvert.cy.js` test file to run it.
 4. Cypress will automatically open a browser and execute the test steps.
